@@ -1,4 +1,4 @@
-@article{REPO-340,
+@article{REPO-339,
     author = "Chen, Jiaxian and Lin, Yiquan and Sun, Kaoyi and Chen, Jiexin and Ma, Chenlin and Mao, Rui and Wang, Yi",
     journal = "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
     number = "11",
