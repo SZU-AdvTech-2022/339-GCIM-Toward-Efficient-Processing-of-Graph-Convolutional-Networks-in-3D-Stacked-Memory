@@ -1,0 +1,9 @@
+@article{REPO-340,
+    author = "Chen, Jiaxian and Lin, Yiquan and Sun, Kaoyi and Chen, Jiexin and Ma, Chenlin and Mao, Rui and Wang, Yi",
+    journal = "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    number = "11",
+    pages = "3579-3590",
+    title = "{GCIM: Toward Efficient Processing of Graph Convolutional Networks in 3D-Stacked Memory}",
+    volume = "41",
+    year = "2022"
+}
